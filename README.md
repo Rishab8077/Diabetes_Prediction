@@ -1,6 +1,11 @@
 # Diabetes_Prediction
 
-A simple Machine Learning project to predict the percentage of chance having Diabetes was created using Random Forest Algorithm. Using flask web application was created 
+A simple Machine Learning project to predict the percentage of chance having Diabetes was created using Random Forest Algorithm. 
+For web devlopment Flask was used.
+
+Libraries used :- Pandas, Numpy, Sklearn, Jupyter notebook and others.
+IDE- Pycharm
+Python version - 3.9.2
 
 ## Screenshots
 
